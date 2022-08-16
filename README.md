@@ -23,6 +23,8 @@ Esse é um desafio da Frontend Mentor com o objetivo de recriar um [componente Q
 
 ![Screenshot-01](C:\Workspace Frontend-Mentor\01-challenge-QR-code-component\qr-code-component-main\screenshots\Screenshot-01.png)
 
+![Screenshot-01](..\master\C:\Workspace Frontend-Mentor\01-challenge-QR-code-component\screenshots\Screenshot-01.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
