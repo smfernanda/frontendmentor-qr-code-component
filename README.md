@@ -21,9 +21,7 @@ Esse é um desafio da Frontend Mentor com o objetivo de recriar um [componente Q
 
 ### Screenshot
 
-![Screenshot-01](C:\Workspace Frontend-Mentor\01-challenge-QR-code-component\qr-code-component-main\screenshots\Screenshot-01.png)
-
-![Screenshot-01](..\master\C:\Workspace Frontend-Mentor\01-challenge-QR-code-component\screenshots\Screenshot-01.png)
+![Screenshot-01](https://user-images.githubusercontent.com/104805828/184777828-0374f2c3-c89f-480e-9f58-b2c5e6f2f36a.png)
 
 ### Links
 
