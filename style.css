@@ -1,5 +1,4 @@
 body {
-    height: 1440px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,36 +8,39 @@ body {
 }
 
 .container {
-    width: 600px;
+    width: 280px;
     height: auto;
-    padding: 30px;
-    border-radius: 40px;
+    margin-top: 110px;
+    padding: 15px 25px ;
+    border-radius: 20px;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    background-color: aliceblue;
+    background-color: hsl(0, 0%, 100%);
     box-shadow: 20px 20px 85px hsl(217, 18%, 80%);
 }
 
 .text {
-    width: 550px;
+    width: 270px;
     text-align: center;
 }
 
 img {
-    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 22px;
     color: hsl(218, 44%, 22%);
 }
 
 p {
-    font-size: 32px;
+    font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
 
