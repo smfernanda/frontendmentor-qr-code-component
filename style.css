@@ -8,10 +8,10 @@ body {
 }
 
 .container {
-    width: 280px;
-    height: auto;
+    /* max-width - sugestão do @correlucas - frontend mentor */
+    max-width: 280px;
     margin-top: 110px;
-    padding: 15px 25px ;
+    padding: 15px 15px ;
     border-radius: 20px;
 
     display: flex;
@@ -29,8 +29,9 @@ body {
 }
 
 img {
-    width: 300px;
-    height: 300px;
+        /* max-width e display: block - sugestão do @correlucas - frontend mentor */
+    display: block;
+    max-width: 100%;
     border-radius: 10px;
 }
 
